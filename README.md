@@ -1,4 +1,4 @@
-# getshirt
+# getshirt test
 Ready script to execute and complete tasks of DigitalOcean hacktoberfest  :D https://hacktoberfest.digitalocean.com
 
 ## Instructions 
